@@ -77,6 +77,31 @@ footer {
     width: 60px;
     height: auto;
 }
-p{
+
+h2 {
+    font-size: 20px;
+    color: #333;
+    padding: 15px;
+}
+
+p {
     padding: 5px;
+}
+
+ul {
+    padding-top: 10px;
+    display: inline-table
+}
+
+li {
+    padding: 5px;
+    text-align: left;
+}
+
+.areas {
+    display: flex;
+    /* justify-content: center; */
+    margin-left: 10%;
+    text-align: left;
+    gap: 20px;
 }
