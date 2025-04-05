@@ -76,4 +76,7 @@ footer {
 .logo-img {
     width: 60px;
     height: auto;
-} 
+}
+p{
+    padding: 5px;
+}

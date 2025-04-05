@@ -3,8 +3,8 @@
     display: flex;
     justify-content: center;
     gap: 20px;
-    padding: 40px;
-    height: 30vh;
+    padding: 20px;
+    height: 50vh;
 }
 
 h2 {
