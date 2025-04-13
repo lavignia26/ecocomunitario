@@ -13,7 +13,7 @@ header {
     align-items: center;
     background: #00cc88;
     color: white;
-    padding: 15px 20px;
+    padding: 5px 20px;
 }
 
 .logo {
@@ -74,7 +74,7 @@ footer {
 }
 
 .logo-img {
-    width: 60px;
+    width: 150px;
     height: auto;
 }
 
